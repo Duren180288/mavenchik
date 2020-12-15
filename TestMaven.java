@@ -5,6 +5,6 @@ import java.io.File;
 public class TestMaven {
     public void mavenchik() {
         File tempDirectory = FileUtils.getTempDirectory();
-        System.out.println("Mavenchik go!");
+        System.out.println("Mavenchik go!,,,");
     }
 }
